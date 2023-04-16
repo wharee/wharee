@@ -23,7 +23,7 @@ Atualmente com 18 anos, estou cursando Sistemas de Informação pela PUC Minas. 
 
 ## Linguagens que estou estudando! 
 <div style = "display: inline_block"><br/>
-    <img align ="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+
 <img align ="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 
